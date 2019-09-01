@@ -1,0 +1,12 @@
+<textarea class="markdown">
+	## Markdown Blog Repository Template
+	This is the homepage for the nsm blog repository template **markdown-blog** [[BitBucket](https://bitbucket.org/nsm-blogs/markdown-blog), [GitHub](https://github.com/nsm-blogs/markdown-blog), [GitLab](https://gitlab.com/nsm-blogs/markdown-blog)]. [Nift](https://nift.cc) (aka nsm) is a cross-platform open source git-like and $\LaTeX$-like site manager coded in C++.
+
+	This website uses [Showdown](http://showdownjs.com/) to convert Markdown to HTML.
+
+	You can import (or fork and rename) the **markdown-blog** blog repository template to begin making your own website with the same design.
+
+	See the [About](@pathto(about)) page for information about adding/removing pages to/from your site and modifying the content/layout of your site.
+
+	See the [FAQ](@pathtopage(faq)) page for how to import/fork this repository along with answers to other frequently asked questions.
+</textarea>

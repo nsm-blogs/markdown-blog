@@ -1,0 +1,10 @@
+<div class="header" id="header">
+	<img class="logo" src="@pathtofile(site/img/NIFT.svg)" width="250px" style="margin-top:15px"><br>
+
+	<img class="logo" src="@pathtofile(site/img/nifty-site-manager.png)" width="160px" style="margin-left: 110px; margin-top:-25px"><br>
+
+	<a href="@pathto(index)" class="header_item">Home</a>
+	<a href="@pathto(blog)" class="header_item">Blog</a>
+	<a href="@pathto(about)" class="header_item">About</a>
+	<a href="@pathto(faq)" class="header_item">FAQ</a>
+</div>

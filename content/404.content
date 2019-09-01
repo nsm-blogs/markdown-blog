@@ -1,0 +1,24 @@
+<div class="content">
+	<center>
+		<h2>404 Error - Page Not Found</h2>
+
+		<p>
+			Looks like you've followed a broken link or entered a URL that doesn't exist on this site.
+		</p>
+
+		<p>
+			<a href="javascript:history.back()">Back</a>
+		</p>
+	</center>
+</div>
+
+<div class="footer">
+	<div class="footer_text">Markdown Blog Template.</div>
+	</noselect>
+	<b>Mirrors:</b> 
+	[<a href="https://nsm-blogs.github.io/markdown-blog" class="footer_item">GitHub</a>] 
+	[<a href="https://nsm-blogs.gitlab.io/markdown-blog" class="footer_item">GitLab</a>] 
+	<br>
+	<noselect><small>&copy;&nbsp;2015 - @loadYYYY <a href="https://n-ham.com/">Nicholas Ham</a></small>
+	<br><br></noselect>
+</div>

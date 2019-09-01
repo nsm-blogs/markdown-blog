@@ -1,0 +1,15 @@
+<div class="footer">
+	<div class="footer_text">Markdown Blog Template</div>
+	<noselect><img src="@pathtofile(site/img/nsm.png)" width="100px" style="margin-bottom:20px">
+	<br></noselect>
+	<b>Mirrors:</b> 
+	[<a href="https://nsm-blogs.github.io/markdown-blog" class="footer_item">GitHub</a>] 
+	[<a href="https://nsm-blogs.gitlab.io/markdown-blog" class="footer_item">GitLab</a>] 
+
+	<p style="margin-top:0px">
+	<small>Site Manager: <a href="https://nift.cc">Nift</a></small>
+	</p>
+
+	<noselect><small>&copy;&nbsp;2015 - @loadYYYY <a href="https://n-ham.com/">Nicholas Ham</a></small>
+	<br><br></noselect>
+</div>
