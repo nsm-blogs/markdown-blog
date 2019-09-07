@@ -1,5 +1,6 @@
 <title>basic site - @pagetitle</title>
 
+<link rel='stylesheet' type='text/css' href='@pathtofile(site/css/blog.css)'>
 <link rel='stylesheet' type='text/css' href='@pathtofile(site/css/footer.css)'>
 <link rel='stylesheet' type='text/css' href='@pathtofile(site/css/menu.css)'>
 <link rel='stylesheet' type='text/css' href='@pathtofile(site/css/pagestyle.css)'>

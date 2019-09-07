@@ -3,7 +3,7 @@
         @input(template/head.content)
     </head>
 
-    <body>
+    <body onload="setup()">
         @input(template/menu.content)
 
 		<div class="content">
