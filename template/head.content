@@ -1,4 +1,4 @@
-<title>basic site - @pagetitle</title>
+<title>basic site - @[title]</title>
 
 <link rel='stylesheet' type='text/css' href='@pathtofile(site/css/blog.css)'>
 <link rel='stylesheet' type='text/css' href='@pathtofile(site/css/footer.css)'>

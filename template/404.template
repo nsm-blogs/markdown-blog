@@ -119,7 +119,7 @@
     </head>
 
     <body>
-        @inputcontent
+        @content()
     </body>
 </html>
 
