@@ -1,9 +1,10 @@
-09:47:20 Friday April 10 2020
-'about'
-'about'
+09:46:33 Tuesday May 05 2020
+'blog'
+'blog'
 'template/page.template'
 
-'content/about.content'
+'content/blog.content'
+'content/blog/posts.js'
 'template/footer.content'
 'template/head.content'
 'template/menu.content'

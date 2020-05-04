@@ -1,5 +1,5 @@
 <div class="header" id="header">
-	<img class="logo" src="@pathtofile(site/img/NIFT.png)" width="300px" style="max-width: 90%; margin-top:15px"><br>
+	<img class="logo" src="@pathtofile($[output-dir]/img/NIFT.png)" width="300px" style="max-width: 90%; margin-top:15px"><br>
 
 	<a href="@pathto(index)" class="header_item">Home</a>
 	<a href="@pathto(blog)" class="header_item">Blog</a>

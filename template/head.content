@@ -1,10 +1,10 @@
 <title>basic site - $[title]</title>
 
-<link rel='stylesheet' type='text/css' href='@pathtofile(site/css/blog.css)'>
-<link rel='stylesheet' type='text/css' href='@pathtofile(site/css/footer.css)'>
-<link rel='stylesheet' type='text/css' href='@pathtofile(site/css/menu.css)'>
-<link rel='stylesheet' type='text/css' href='@pathtofile(site/css/pagestyle.css)'>
-<link rel='stylesheet' type='text/css' href='@pathtofile(site/css/pre.css)'>
+<link rel='stylesheet' type='text/css' href='@pathtofile($[output-dir]/css/blog.css)'>
+<link rel='stylesheet' type='text/css' href='@pathtofile($[output-dir]/css/footer.css)'>
+<link rel='stylesheet' type='text/css' href='@pathtofile($[output-dir]/css/menu.css)'>
+<link rel='stylesheet' type='text/css' href='@pathtofile($[output-dir]/css/pagestyle.css)'>
+<link rel='stylesheet' type='text/css' href='@pathtofile($[output-dir]/css/pre.css)'>
 
 <meta name='viewport' content='width=device-width, initial-scale=0.75, maximum-scale=1.0'>
 

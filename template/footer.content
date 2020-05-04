@@ -1,6 +1,6 @@
 <div class="footer">
 	<div class="footer_text">Markdown Blog Template</div>
-	<noselect><img src="@pathtofile(site/img/nsm.png)" width="100px" style="margin-bottom:20px">
+	<noselect><img src="@pathtofile($[output-dir]/img/nsm.png)" width="100px" style="margin-bottom:20px">
 	<br></noselect>
 	<b>Mirrors:</b> 
 	[<a href="https://nsm-blogs.github.io/markdown-blog" class="footer_item">GitHub</a>] 
